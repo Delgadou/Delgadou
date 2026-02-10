@@ -1,5 +1,10 @@
 ## Hi there 👋
+**Welcome to my profile, I'm Henrique Delgado**
 
+## About me
+📱 Mobile developer with experience and multiple stacks. Experience in Android, Flutter and iOS.
+
+Im currently working on the [DeltaTimer](https://apps.apple.com/br/app/delta-timer/id6748762829) iOS project. I invite you to download the app and take a look. 
 <!--
 **Delgadou/Delgadou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
