@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Henrique Delgado 👋
+# Hi there, I'm Henrique 😄
 
 **Mobile Developer · iOS focused · Swift & SwiftUI**
 
@@ -30,19 +30,24 @@ I'm a mobile developer with **4+ years of experience** building apps for iOS and
 </p>
 
 ---
-
 ## 🚀 Featured projects
 
-### ⏱️ Delta Timer
-A HIIT interval timer for iOS with deep system integration and an Apple Watch companion app.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a1d35a6f-4230-4dc4-af91-17c7f9b9597d" width="90" />
+</p>
 
-**Stack:** Swift · SwiftUI · watchOS
+<h3 align="center">Delta Timer</h3>
 
 <p align="center">
-  <img src="assets/deltatimer-1.png" width="22%" />
-  <img src="assets/deltatimer-2.png" width="22%" />
-  <img src="assets/deltatimer-3.png" width="22%" />
-  <img src="assets/deltatimer-4.png" width="22%" />
+  A HIIT interval timer for iOS with deep system integration and an Apple Watch companion app.<br />
+</p>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/ed23156d-2a8e-4c7d-93d6-e92bfdc9c6c5" width="180" />
+<img src="https://github.com/user-attachments/assets/6a539e14-ac94-498c-b388-b51fddd5930d" width="180" />
+<img src="https://github.com/user-attachments/assets/b00b566c-7208-4daf-92ff-b57063ce480e" width="180" />
+<img src="https://github.com/user-attachments/assets/7c436574-196f-4f6b-a1c3-3a740a6a407d" width="180" />
+<img src="https://github.com/user-attachments/assets/22a24137-bd75-4f72-89d2-1eccde2ef307" width="180" />
 </p>
 
 <p align="center">
@@ -52,13 +57,12 @@ A HIIT interval timer for iOS with deep system integration and an Apple Watch co
 ### 💰 Budget
 An expense tracker where you can log expenses by voice, camera, Siri and Shortcuts.
 
-**Stack:** Swift · SwiftUI · App Intents
-
 <p align="center">
-  <img src="assets/budget-1.png" width="22%" />
-  <img src="assets/budget-2.png" width="22%" />
-  <img src="assets/budget-3.png" width="22%" />
-  <img src="assets/budget-4.png" width="22%" />
+<img src="https://github.com/user-attachments/assets/e1917c99-65c8-482e-95fe-97630c61c202" width="180" />
+<img src="https://github.com/user-attachments/assets/bb6bf66a-fe93-46d8-a77a-abc03ed3f2d3" width="180" />
+<img src="https://github.com/user-attachments/assets/4aef0681-f70d-40f5-87f5-a6e05a941613" width="180" />
+<img src="https://github.com/user-attachments/assets/5e30c4cc-2878-415d-9337-19dcbae07f2e" width="180" />
+<img src="https://github.com/user-attachments/assets/869af4f1-169f-47e4-89a8-dc1135b0bb97" width="180" />
 </p>
 
 <p align="center">
