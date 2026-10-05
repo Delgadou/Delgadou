@@ -32,7 +32,8 @@ A HIIT(high intensity interval training) timer for iOS with deep system integrat
 <img src="https://github.com/user-attachments/assets/6a539e14-ac94-498c-b388-b51fddd5930d" width="150" />
 <img src="https://github.com/user-attachments/assets/b00b566c-7208-4daf-92ff-b57063ce480e" width="150" />
 <img src="https://github.com/user-attachments/assets/7c436574-196f-4f6b-a1c3-3a740a6a407d" width="150" />
-<img src="https://github.com/user-attachments/assets/22a24137-bd75-4f72-89d2-1eccde2ef307" width="150" />
+<img src="https://github.com/user-attachments/assets/cd261fdf-799a-4c1c-b0b3-29a78b7ee617" width="150" />
+<img src="https://github.com/user-attachments/assets/d76dcba2-0abf-45f3-9bdc-de69031de483" width="150" />
 </p>
 
 ---
