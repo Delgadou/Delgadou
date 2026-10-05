@@ -15,15 +15,15 @@
 I'm a mobile developer with **4+ years of experience** building apps for iOS and Android. Today my focus is native iOS with **Swift and SwiftUI**, but my background spans the whole mobile ecosystem: native Android with Kotlin, Flutter and React Native.
 
 - 📱 I've published **two apps on the App Store**, built end to end: design, architecture and release
-- 🏦 Spent nearly **3 years at Warren Investimentos** working on Android native and Flutter
-- 🎨 Worked with **React Native** across multiple clients, building with Design Systems and design tokens
+- 🏦 Spent nearly **3 years at Warren Investimentos** working on Android native with kotlin and Flutter
+- 🎨 Worked with **React Native**, helping to build a design system in OTO CRM app.
 - 🔍 Currently **open to new opportunities** — feel free to reach out!
 
 ## 🚀 Featured projects
 
 ### <img src="https://github.com/user-attachments/assets/a1d35a6f-4230-4dc4-af91-17c7f9b9597d" width="32" align="center" />&nbsp; Delta Timer
 
-A HIIT interval timer for iOS with deep system integration and an Apple Watch companion app.
+A HIIT(high intensity interval training) timer for iOS with deep system integration, with healthKit, app intents, widgets and an Apple Watch companion app.
 
 <a href="https://apps.apple.com/br/app/delta-timer/id6748762829"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=apple&logoColor=white" /></a>
 
